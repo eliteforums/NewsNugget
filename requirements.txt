@@ -1,0 +1,31 @@
+# Core Web Scraping and NLP Libraries
+newspaper3k==0.2.8
+textblob==0.17.1
+nltk==3.8.1
+
+# Web Framework
+streamlit==1.29.0
+
+# Data Manipulation and Visualization
+pandas==2.2.1
+plotly==5.18.0
+
+# URL Validation
+validators==0.22.0
+
+# Image Processing (optional, but used in the script)
+Pillow==10.2.0
+
+# Additional Dependencies
+urllib3==2.2.1
+requests==2.31.0
+
+# Development and Debugging
+typing-extensions==4.9.0
+
+# Specific Version Constraints
+setuptools>=65.5.1
+wheel>=0.38.4
+
+# NLTK Download Management
+nltk-data==1.0
